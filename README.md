@@ -57,13 +57,6 @@ Each radar chart is color-coded per player:
 - Math
 - BeautifulSoup
 
-## 📂 Project Structure
-├── init.py  # get stats, process, normalize
-├── radar_chart.py
-├── comparison_table.py
-├── main.py
-├── README.md
-└── requirements.txt
 
 ## 🚀 How to Run
 1. Install dependencies:
