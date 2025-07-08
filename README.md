@@ -67,8 +67,8 @@ Each radar chart is color-coded per player:
 
 ## 🚀 How to Run
 1. Install dependencies:
-    ```bash```
+    ```bash
     pip install -r requirements.txt
 2. Run the script
-    ```bash```
+    ```bash
     python src/main.py
